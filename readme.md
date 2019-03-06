@@ -1,0 +1,1 @@
+A study of date object in javascript
